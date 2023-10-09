@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Vamos Decorar a Tabuada</string>
+    <string name="txtIgualdade">=</string>
+    <string name="txtSinalMultiplicacao">X</string>
+    <string name="editEscolhaTabuada">Escolha a tabuada desejada</string>
+    <string name="txtTitle">TABUADA</string>
+    <string name="btnCalcular">CALCULAR</string>
+</resources>
